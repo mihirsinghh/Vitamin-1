@@ -1,0 +1,22 @@
+h1,
+h2 {
+    font-family: 'Papyrus';
+    color: purple;
+}
+
+a {
+    color: black;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: inline-block;
+    background-color: gray;
+    padding: 16px;
+    margin: 0;
+}
+

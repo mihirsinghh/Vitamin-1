@@ -20,3 +20,13 @@ li {
     margin: 0;
 }
 
+li:hover {
+    background-color: #AAA;
+}
+
+footer {
+    background-color: #DDD;
+    color: #555;
+    padding: 16px;
+    text-align: center;
+}
